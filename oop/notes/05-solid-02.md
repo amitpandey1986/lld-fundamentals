@@ -205,7 +205,7 @@ Since we are not tying behaviour to the class hierarchy, we can add new types of
 
 Segregation means keeping things separated, and the Interface Segregation Principle is about separating the interfaces.
 
-The principle states that many client-specific interfaces are better than one general-purpose interface. Clients should not be forced to implement a function they do no need. Declaring methods in an interface that the client doesn’t need pollutes the interface and leads to a “bulky” or “fat” interface
+The principle states that many client-specific interfaces are better than one general-purpose interface. Clients should not be forced to implement a function they do not need. Declaring methods in an interface that the client doesn’t need pollutes the interface and leads to a “bulky” or “fat” interface
 
 ![Interface Segregation Principle](https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/07/interface_segregation_principle_thumb.jpg)
 
